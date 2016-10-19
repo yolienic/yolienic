@@ -1,0 +1,33 @@
+h1 {
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+	font-family: Helvetica;
+}
+
+#anotherh1 {
+	color: blue;
+}
+
+#anotherh1:hover {
+	color: yellow;
+	opacity: 100;
+	transform: translateY(5px);
+}
+
+#thisisadiv {
+	background-color: red;
+}
+
+#purple {
+	background-color: purple;
+	height: 20px;
+	width: 50px;
+}
+
+.blog {
+	width: 90%;
+	height: 20%;
+	border: 1px solid black;
+}
+/*sdlkfjs dlkfj*/
